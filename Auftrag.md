@@ -7,3 +7,4 @@ Beobachte das Objektspiel zum *second hand shop* und beantworte folgende Fragen:
 5. Welche Elemente müsste ein Verwaltungselement kennen?
 6. Nach welchem Prinzip arbeitet die Datenstruktur? Wie nennt man eine solche Datenstruktur?
 6. Welche (Verwaltungs)Operationen sind für diese Datenstruktur sinnvoll?
+hi 
